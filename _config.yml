@@ -1,0 +1,83 @@
+color:
+  brandColors:
+    - '#193187'
+    - '#93B8D2'
+    - '#5086AC'
+    - '#99DCEC'
+    - '#F7FDFB'
+  brandStrength: 0.010405260371044278
+  lightness: 0.6279000828508288
+  saturation: 0.02489262563176453
+  rhythmicContrast: 0.8869014459196478
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: omnibeneficialsolutions
+layout_spectrum: 0.5210115378722548
+typography_spectrum: 0.9956729216501117
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/054ff687-b52d-4c4b-8a11-6dc122d631af.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/054ff687-b52d-4c4b-8a11-6dc122d631af.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4d8ba3d-9503-4f9a-a943-6cea746eb3a3.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4d8ba3d-9503-4f9a-a943-6cea746eb3a3.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: 'OBS, LLC'
+description: >-
+  Omni: perhaps literally "to work, produce in abundance"; Beneficial: meeting
+  of needs of a person to receive the profits; Solutions: various acts or
+  similar processes of solving a problem.
+purpose:
+  - type: contact
+    url: 'mailto:omnibeneficialsolutions@gmail.com'
+    label: Contact me
+github: true
+author:
+  name: Greg Urick
+  email: omnibeneficialsolutions@gmail.com
